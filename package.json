@@ -1,0 +1,24 @@
+{
+  "name": "playing-with-body-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrooksPatton/playing-with-body-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrooksPatton/playing-with-body-parser/issues"
+  },
+  "homepage": "https://github.com/BrooksPatton/playing-with-body-parser#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
